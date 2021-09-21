@@ -23,6 +23,10 @@ header {
 }
 
 /* ------feedback css ----------- */
+.boxcontrol{
+    display: flex;
+    justify-content: center;
+}
 
 
 
