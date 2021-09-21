@@ -25,7 +25,14 @@ header {
 /* ------feedback css ----------- */
 .boxcontrol{
     display: flex;
-    justify-content: center;
+    
+}
+.mylogoo{
+    height: 200px;
+    width: 200px;
+    padding-left: 30px;
+    text-align: center;
+    padding-top: 30px;
 }
 
 
