@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body  {
+font-family: 'Varela Round', sans-serif;
+}
+
+header {
+    display: flex;
+    margin: auto;
+}
+
+.logo-container {
+    text-decoration-color:#63EEFF;
+    flex: 1;
+    font-size: 250%;
+    height:
+    align-items: center;
+
+  ;
+}
