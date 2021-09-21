@@ -36,6 +36,7 @@ header {
     height: 200px;
     width: 200px;
     padding-left: 30px;
+
    
 }
 
@@ -43,8 +44,10 @@ header {
     padding-top: 50px;
     padding-left: 30px;
     background-color: burlywood;
+    left: 50px;
 
 }
+
 
 
 
