@@ -131,6 +131,9 @@ input[type=submit]:hover {
 .aboutourteam{
     font-size: 16px;
 }
+.teamtitle{
+    color: blue;
+}
 .closeall{
    text-align: center;
    background-color: silver ; 
