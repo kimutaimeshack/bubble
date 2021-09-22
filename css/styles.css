@@ -1,4 +1,4 @@
-/* *{
+*{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -20,16 +20,22 @@ header {
     align-items:center;
 
   
-} */
+}
 
 /* ------feedback css ----------- */
+form{
+    left: 100px;
+}
 .boxcontainer{
   display: flex;
   background-color:thistle;
 }
+
 .box1{
 background-color: wheat;
+left: 90px;
 }
+
 .box2 {
  width: 900px;
  left: 100px;
@@ -41,7 +47,7 @@ background-color: wheat;
 }
 .feedbackform{
     text-align: center;
-    background-color: rgb(240, 240, 247);
+    padding-top: 43px;
 }
 
 
@@ -106,7 +112,7 @@ input[type=submit]:hover {
 }
 
 /* Clear floats after the columns */
-.row:after {
+.sumitbutton:after {
     content: "";
     display: table;
     clear: both;
