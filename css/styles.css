@@ -123,12 +123,34 @@ input[type=submit]:hover {
 
 
 /* team members  */
+
+.teamcontainer {
+    background: #000000;
+   
+}
+.aboutourteam{
+    font-size: 16px;
+}
+.closeall{
+   text-align: center;
+   background-color: silver ; 
+    height: auto;
+    width: auto;
+    border: 40px solid darkslategray;
+    padding-bottom: 30px;
+}
+
 .our-team {
     border-radius: 15px;
     text-align: center;
     padding: 20px 15px 30px;
     background: #fff;
 
+
+}
+ .teammemberimages{
+ text-align: center;
+ padding-left: 300px;
 }
 
 .our-team .pic {
@@ -145,10 +167,14 @@ input[type=submit]:hover {
     background: #17bebb;
     border-radius: 50%;
 }
+#imagesizebox{
+    height: 140px;
+    width: 140px;
+    text-align: center;
+}
 
 .pic img {
-    width: 100%;
-    height: auto;
+   text-align: center;
     border-radius: 50%;
 }
 
