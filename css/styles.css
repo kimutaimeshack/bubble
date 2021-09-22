@@ -23,6 +23,7 @@ header {
 }
 
 /* ------feedback css ----------- */
+
 * {
     box-sizing: border-box;
 }
@@ -90,7 +91,6 @@ input[type=submit]:hover {
     display: table;
     clear: both;
 }
-
 
 
 
