@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -20,17 +20,31 @@ header {
     align-items:center;
 
   
-}
+} */
 
 /* ------feedback css ----------- */
 .boxcontainer{
-    display: flex;
-    justify-self: start;
+  display: flex;
+  background-color:thistle;
+}
+.box1{
+background-color: wheat;
+}
+.box2 {
+ width: 900px;
+ left: 100px;
+}
+.containerformfeedback {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+   
 }
 .feedbackform{
     text-align: center;
-
+    background-color: rgb(240, 240, 247);
 }
+
+
 
 * {
     box-sizing: border-box;
@@ -75,11 +89,7 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-.containerformfeedback {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-}
+
 
 .col-25 {
     float: left;
@@ -100,6 +110,9 @@ input[type=submit]:hover {
     content: "";
     display: table;
     clear: both;
+}
+.sumitbutton {
+  padding-right: 400px;
 }
 
 
